@@ -1,0 +1,14 @@
+C:\Users\Matul\Goksad\rider\Characters\Characters\obj\Debug\net8.0\Characters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matul\Goksad\rider\Characters\Characters\obj\Debug\net8.0\Characters.AssemblyInfoInputs.cache
+C:\Users\Matul\Goksad\rider\Characters\Characters\obj\Debug\net8.0\Characters.AssemblyInfo.cs
+C:\Users\Matul\Goksad\rider\Characters\Characters\obj\Debug\net8.0\Characters.csproj.CoreCompileInputs.cache
+C:\Users\Matul\Goksad\rider\Characters\Characters\bin\Debug\net8.0\Characters.exe
+C:\Users\Matul\Goksad\rider\Characters\Characters\bin\Debug\net8.0\Characters.deps.json
+C:\Users\Matul\Goksad\rider\Characters\Characters\bin\Debug\net8.0\Characters.runtimeconfig.json
+C:\Users\Matul\Goksad\rider\Characters\Characters\bin\Debug\net8.0\Characters.dll
+C:\Users\Matul\Goksad\rider\Characters\Characters\bin\Debug\net8.0\Characters.pdb
+C:\Users\Matul\Goksad\rider\Characters\Characters\obj\Debug\net8.0\Characters.dll
+C:\Users\Matul\Goksad\rider\Characters\Characters\obj\Debug\net8.0\refint\Characters.dll
+C:\Users\Matul\Goksad\rider\Characters\Characters\obj\Debug\net8.0\Characters.pdb
+C:\Users\Matul\Goksad\rider\Characters\Characters\obj\Debug\net8.0\Characters.genruntimeconfig.cache
+C:\Users\Matul\Goksad\rider\Characters\Characters\obj\Debug\net8.0\ref\Characters.dll
